@@ -1,4 +1,4 @@
-"""Configuration file for CIFAR10 training on Resnet18
+""" Template Configuration file for CIFAR10 training on Resnet18
 """
 
 # DL model Architecture Settings
