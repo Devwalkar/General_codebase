@@ -1,6 +1,3 @@
-### General framework
-General framework in pytorch for image classification task 
-
 
 ## Description
 This framework is helpful in training Deep learning based image classification task on general academic datasets. It currently supports features of training/validation accuracy and loss plotting, model weight storage and mutli GPU distributed training. Following models are supported as of now:
@@ -44,13 +41,13 @@ Firstly create `Model_storage` and `data` folders in the repo root directory. Th
 
 - `Pytorch 1.0.0` or higher
 - `Torchvision 0.4.0` or higher
-- [Sequential-imagenet-dataloader](https://github.com/BayesWatch/sequential-imagenet-dataloader)  
+- [`Sequential-imagenet-dataloader`](https://github.com/BayesWatch/sequential-imagenet-dataloader)  
 - [`Tensorpack`](https://github.com/tensorpack/tensorpack)
 - `OpenCV 4.0` or higher
 - `Tqdm`
 - `Lmdb`
 - `TensorFlow 1.3` or higher and < 2
 - `Matplotlib 3.1.1` or higher
-- [Pretrainedmodels](https://github.com/Cadene/pretrained-models.pytorch)
+- [`Pretrainedmodels`](https://github.com/Cadene/pretrained-models.pytorch)
 
 
